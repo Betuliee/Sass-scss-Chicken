@@ -6,6 +6,8 @@ HTML5
 
 CSS
 
+SCSS
+
 <h2> Ekran Görünümü</h2>
 
 ![](screen.gif)
